@@ -23,5 +23,8 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"@fortawesome/fontawesome-free": "^7.1.0"
 	}
 }
